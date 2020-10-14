@@ -3,7 +3,7 @@
 
 [Ödev-1](Unit1-Practice1.pdf)
 
-[Ödev-2](7.1.2)
+[Ödev-2](7.1.2.pdf)
 
 ## Unit-2
 
