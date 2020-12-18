@@ -25,6 +25,8 @@
 [Ödev 9](G7 - Unit 4 - Smart Picture Test.pdf)
 
 
+[Ödev 10](7.4.1.pdf)
+
 ## Unit-5
 
 ## Unit-6
