@@ -27,6 +27,8 @@
 
 [Ödev 10](7.4.1.pdf)
 
+[Ödev 11](Grade 07 Unit 04 Smart Tests.pdf)
+
 ## Unit-5
 
 ## Unit-6
