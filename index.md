@@ -32,6 +32,8 @@
 
 ## Unit-5
 
+[Ödev 13](7.5 Smart Sheet.pdf)
+
 ## Unit-6
 
 ## Unit-7
