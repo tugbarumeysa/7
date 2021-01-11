@@ -38,6 +38,8 @@
 
 [Ödev 15](7.5.2.pdf)
 
+[Ödev 16](7.5 Smart Tests.pdf)
+
 ## Unit-6
 
 ## Unit-7
