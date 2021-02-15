@@ -43,6 +43,7 @@
 ## Unit-6
 
 [Ödev 17.1](7.6 Smart Picture Test.pdf)
+
 [Ödev 17.2](7.6 Smart Vocabulary.pdf)
 
 ## Unit-7
