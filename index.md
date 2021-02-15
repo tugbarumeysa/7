@@ -42,6 +42,8 @@
 
 ## Unit-6
 
+[Ödev 17](7.6 Smart Picture Test.pdf)
+
 ## Unit-7
 
 ## Unit-8
