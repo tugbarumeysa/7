@@ -46,6 +46,8 @@
 
 [Ödev 17.2](7.6 Smart Vocabulary.pdf)
 
+[Ödev 18](Grade 07 Unit 06 Smart Sheet.pdf)
+
 ## Unit-7
 
 ## Unit-8
