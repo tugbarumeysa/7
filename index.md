@@ -48,6 +48,8 @@
 
 [Ödev 18](Grade 07 Unit 06 Smart Sheet.pdf)
 
+[Ödev 19](7.6.1.pdf)
+
 ## Unit-7
 
 ## Unit-8
