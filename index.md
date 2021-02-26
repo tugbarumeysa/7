@@ -50,6 +50,8 @@
 
 [Ödev 19](7.6.1.pdf)
 
+[Ödev 20](Grade 07 Unit 06 Smart Tests.pdf)
+
 ## Unit-7
 
 ## Unit-8
