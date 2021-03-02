@@ -1,3 +1,7 @@
+## Readings
+
+[1. Sherlock Holmes Short Stories](175 Sherlock Holmes Short Stories.pdf)
+
 ## Unit-1
 
 [Ödev 1](Unit1-Practice1.pdf)
